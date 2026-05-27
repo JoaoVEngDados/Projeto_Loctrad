@@ -13,4 +13,4 @@ O objetivo central do projeto é descobrir oportunidades reais no mercado local,
 
 ## Acompanhamento do Projeto
 
-O detalhamento técnico e a evolução da arquitetura estão documentados na pasta `diario_de_bordo/`. Cada arquivo reflete os logs de desenvolvimento diário, testes de conectividade e blocos de código implementados.
+O detalhamento técnico e a evolução da arquitetura estão documentados na pasta `Detalhes_Projeto_mercado/`. Cada arquivo reflete os logs de desenvolvimento diário, testes de conectividade e blocos de código implementados.
