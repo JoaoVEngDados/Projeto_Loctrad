@@ -1,4 +1,4 @@
-# 🚀 Relatório Diário de Projeto Loctra - Dia 01
+# 🚀 Relatório Diário de Projeto Loctra - Dia 01- Setup_Conexao
 
 ## 📌 Objetivo do Dia
 Configuração do ambiente local de controle de versão, provisionamento das bases de dados e validação de conectividade via Python com tratamento de *encoding*.
